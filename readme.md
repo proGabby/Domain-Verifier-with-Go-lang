@@ -10,5 +10,5 @@
 1. Ensure Go is install on your machine
 2. Clone the repo on your machine
 3. initialize Go mod by running go mod init 
-4. run go run main.go
+4. run - go run main.go
 
